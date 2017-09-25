@@ -1,6 +1,6 @@
-# Nuxt.js + Express
+# Nuxt + Express
 
-> ES6 Nuxt.js project using Express as API.
+> Nuxt application using Express as API.
 
 ## Build Setup (Nuxt)
 
