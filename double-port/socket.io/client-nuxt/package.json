@@ -1,7 +1,7 @@
 {
   "name": "nuxt",
   "description": "nuxt client",
-  "repository": "https://github.com/lautiamkok/xxx.git",
+  "repository": "https://github.com/lautiamkok",
   "scripts": {
     "start": "nuxt"
   },

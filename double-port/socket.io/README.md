@@ -1,4 +1,4 @@
-# Nuxt + Express
+# Nuxt + Express + Socket.io
 
 > Nuxt application using Express as API.
 
@@ -31,3 +31,4 @@ Then, access it at http://localhost:3030/
 
 * [Nuxt.js](https://nuxtjs.org/)
 * [Express](http://expressjs.com/)
+* [Socket.io](https://github.com/socketio/socket.io)

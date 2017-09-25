@@ -1,15 +1,13 @@
 {
   "name": "nuxt",
   "description": "nuxt as client",
-  "repository": "https://github.com/xxx.git",
+  "repository": "https://github.com/lautiamkok",
   "scripts": {
     "start": "nuxt"
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "nuxt": "^1.0.0-rc5",
-    "socket.io": "^2.0.3",
-    "socket.io-client": "^2.0.3"
+    "nuxt": "^1.0.0-rc5"
   },
   "license": "MIT"
 }
