@@ -26,7 +26,8 @@ $ npm start
 
 Then, access it at http://localhost:3030/
 
-## Notes
 
-1. For this approach, you must run these two apps concurrently.
+## Dependencies
 
+* [Nuxt.js](https://nuxtjs.org/)
+* [Express](http://expressjs.com/)

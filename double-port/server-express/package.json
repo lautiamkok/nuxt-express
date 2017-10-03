@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-express",
+  "version": "1.0.0",
+  "description": "sample of nuxt + express",
+  "author": "lau thiam kok",
+  "private": true,
+  "scripts": {
+    "dev": "backpack dev",
+    "build": "backpack build",
+    "start": "cross-env NODE_ENV=production node build/main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cross-env": "^5.0.1",
+    "express": "^4.15.3",
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "backpack-core": "^0.4.1"
+  }
+}
